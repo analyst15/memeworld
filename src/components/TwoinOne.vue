@@ -1,14 +1,19 @@
 <template>
-    <div>
-        <TwoinOne :name="'memworld'" visit="/about"/>
+    <div class="container mx-auto px-5 lg:px-20">
+        <div class="flex justify-between gap-10">
+            <div class="text">
+                <h1 class="text-2xl md:text-4xl text-slate-700">{{ name }} <br> <strong class="text-blue-700 text-5xl lg:text-6xl font-bold">MemeWorld Team</strong></h1>
+            </div>
+            <div class="img"></div>
+        </div>
     </div>
 </template>
 
 <script setup>
-import TwoinOne from '../componnents/TwoinOne.vue';
-import home from '../assets/images/group 89.png'
+import { defineProps } from 'vue'
+const props = defineProps(['name', 'imgsrc', 'visit', 'btnName'])
 </script>
 
-<style lang="scss" scoped>
+<style  scoped>
 
 </style>
