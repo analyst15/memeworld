@@ -1,6 +1,6 @@
 <template>
     <div>
-        <TwoinOne :name="'memeworld'" :imgsrc="home" :visit="'/about'" :btnName="'Get Started'"/>
+        <TwoinOne :name="'MEME.'" :imgsrc="home" :visit="'/about'" :btnName="'Get Started'"/>
     </div>
 </template>
 
