@@ -108,7 +108,7 @@
           <ul class="mt-14 space-y-4 text-sm">
             <li>
               <a class="text-gray-700 transition hover:text-gray-700/75" href="#">
-                Company History
+                Blog
               </a>
             </li>
           </ul>
@@ -117,7 +117,7 @@
           <ul class="mt-14 space-y-4 text-sm">
             <li>
               <a class="text-gray-700 transition hover:text-gray-700/75" href="#">
-                Company History
+                About
               </a>
             </li>
           </ul>
@@ -127,7 +127,7 @@
           <ul class="mt-14 space-y-4 text-sm">
             <li>
               <a class="text-gray-700 transition hover:text-gray-700/75" href="#">
-                Company History
+                Terms and Conditions
               </a>
             </li>
           </ul>
