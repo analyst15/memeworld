@@ -13,7 +13,7 @@
     </div>
     <div class="p-4">
         <img src="../assets/images/Group57.png" alt="Description of your image" class="w-64 h-auto">
-        <h3 class="lg:text-xl lg:mt-5 md:text-4xl font-medium font-nunito lg:ml-20">Meme Templates</h3>
+        <h3 class="lg:text-xl lg:mt-5 md:text-4xl font-medium font-nunito lg:ml-16">Meme Templates</h3>
     </div>
 </div>
 </template>

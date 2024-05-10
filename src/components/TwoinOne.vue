@@ -1,5 +1,27 @@
 <template>
-    <div class=" grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-2 gap-4 p-4">
+        <div>
+    </div>
+<div class="lg:ml-24 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-2 gap-1 p-4">
+    <div class="p-4">
+        <img src="../assets/images/Group89.png" alt="Description of your image" class="w-64 h-auto">
+    </div>
+    <div class="p-4">
+        <h1 class="text-2xl md:text-4xl text-slate-700"><strong class="text-black text-5xl lg:text-6xl font-bold font-nunito">MEME.</strong></h1>
+                <h1 class="text-2xl md:text-4xl text-slate-700"><strong class="text-black text-5xl lg:text-6xl font-bold font-nunito">EARN.</strong></h1>
+                <h1 class="text-2xl md:text-4xl text-slate-700"><strong class="text-black text-5xl lg:text-6xl font-bold font-nunito">SMILE.</strong></h1>
+                <p class="text-lg mt-4 font-nunito text-orange-500">Join Meme World</p>
+                <p class="text-lg mt-4 font-nunito text-black">A world of memes</p>
+                <p class="text-lg mt-2 font-nunito text-bl">A billion smiles</p>
+                <div class="flex flex-wrap">
+                    <img :src="imgsrc2" alt="playstorelogo" class="w-full lg:mr-3 md:w-1/2 lg:w-1/3 xl:w-1/4 mt-5">
+                    <img :src="imgsrc3" alt="appstorelogo" class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 mt-5">
+                </div>
+    </div>
+</div>
+
+
+
+ <!----<div class=" grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-2 gap-4 p-4">
     <div class="p-4">
         <div class="mr-10">
                 <img :src="imgsrc1" alt="phonedesign" class="w-[80%] h-[80%] lg:px-24">
@@ -19,7 +41,7 @@
                 </div>
             </div>
     </div>
-   </div> 
+   </div>-->
    
 
 <!----</div>
