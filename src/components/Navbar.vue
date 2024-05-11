@@ -9,7 +9,7 @@
                 <router-link to="/features" class="text-white py-5 hover:text-slate-700 text-base font-nunito font-normal">Features</router-link>
                 <router-link to="/contact" class="text-white py-5 hover:text-slate-700 text-base font-nunito font-normal">Contact Us</router-link>
             </nav>
-            <div class="test-4xl text-black cursor-pointer md:hidden z-20" @click="menuOpen">
+            <div class="test-4xl text-white cursor-pointer md:hidden z-20" @click="menuOpen">
                 <i :class="[open ? 'text-3xl bi bi-x' : ' text-3xl bi bi-list' ]"></i>
             </div>
         </header>
