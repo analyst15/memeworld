@@ -1,6 +1,6 @@
 <template>
     <div class="hidden lg:block">
-        <div class="lg:ml-16 lg:pl-5 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-2 gap-1 p-4">
+        <div class="lg:ml-16 mt-20 lg:pl-5 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-2 gap-1 p-4">
     <div class="p-4">
         <img src="../assets/images/Group89.png" alt="Description of your image" class="w-64 h-auto">
     </div>
@@ -20,7 +20,7 @@
     </div>
 
 
-<div class="lg:hidden grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2  gap-1 p-4">
+<div class="lg:hidden mt-20 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2  gap-1 p-4">
     <div class="">
         <div class="flex text-left">
             <h1 class=""><strong class="text-black text-2xl lg:text-6xl font-bold font-nunito mr-1">MEME.</strong></h1>

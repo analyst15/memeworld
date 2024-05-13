@@ -1,6 +1,6 @@
 <template>
     <div>
-        <header class="flex justify-between items-center bg-orange-500 shadow-md h-[80px] px-5 lg:px-24 relative z-10">
+        <header class="fixed top-0 w-full flex justify-between items-center bg-orange-500 shadow-md h-[80px] px-5 lg:px-24 z-10">
             <div class="text-3xl font-extrabold text-blue-600 hover:text-blue-700 cursor-pointer">
                 <router-link to="/"> <img src="../assets/images/logo.png" class="h-10" alt="Logo"> </router-link> 
             </div>
