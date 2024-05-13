@@ -1,6 +1,6 @@
 <template>
     <div class="hidden lg:block">
-        <div class="lg:ml-24 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-2 gap-1 p-4">
+        <div class="lg:ml-16 lg:pl-5 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-2 gap-1 p-4">
     <div class="p-4">
         <img src="../assets/images/Group89.png" alt="Description of your image" class="w-64 h-auto">
     </div>
@@ -8,7 +8,7 @@
         <h1 class="text-2xl md:text-4xl text-slate-700"><strong class="text-black text-5xl lg:text-6xl font-bold font-nunito">MEME.</strong></h1>
                 <h1 class="text-2xl md:text-4xl text-slate-700"><strong class="text-black text-5xl lg:text-6xl font-bold font-nunito">EARN.</strong></h1>
                 <h1 class="text-2xl md:text-4xl text-slate-700"><strong class="text-black text-5xl lg:text-6xl font-bold font-nunito">SMILE.</strong></h1>
-                <p class="text-lg mt-4 font-nunito text-orange-500">Join Meme World</p>
+                <p class="text-lg mt-4 font-nunito text-orange-500">Join Memeworld</p>
                 <p class="text-lg mt-4 font-nunito text-black">A world of memes</p>
                 <p class="text-lg mt-2 font-nunito text-bl">A billion smiles</p>
                 <div class="flex flex-wrap">
@@ -27,7 +27,7 @@
             <h1 class=""><strong class="text-black text-2xl lg:text-6xl font-bold font-nunito mr-1">EARN.</strong></h1>
             <h1 class=""><strong class="text-black text-2xl lg:text-6xl font-bold font-nunito">SMILE.</strong></h1>
         </div>
-        <p class="text-lg mt-4 font-nunito text-orange-500">Join Meme World</p>
+        <p class="text-lg mt-4 font-nunito text-orange-500">Join Memeworld</p>
         <p class="text-lg mt-2 font-nunito text-black">A world of memes</p>
         <p class="text-lg font-nunito text-bl">A billion smiles</p>
         <div class="flex mt-3">
@@ -36,7 +36,7 @@
         </div>
     </div>
     <div class="p-4">
-        <img src="../assets/images/Group89.png" alt="Description of your image" class="w-64 h-auto">
+        <img src="../assets/images/Group89.png" alt="Description of your image" class="w-64 h-auto mx-auto">
     </div>
 </div>
 

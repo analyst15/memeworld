@@ -22,7 +22,7 @@
               </svg>--
             </a>-->
             <p class="flex-1 w-64 font-nunito font-bold">
-              Contact US</P>
+              Contact Us</P>
             <p class="font-nunito font-normal">Email: info@memeworld.co.ke</p>
           </div>
 
