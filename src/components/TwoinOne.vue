@@ -86,7 +86,7 @@
 </template>
 
 <script setup>
-import { defineProps } from 'vue'
+
 const props = defineProps(['name', 'imgsrc1','imgsrc2', 'imgsrc3','imgsrc4', 'imgsrc5', 'visit', 'btnName'])
 </script>
 
